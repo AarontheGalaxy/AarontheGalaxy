@@ -1,4 +1,3 @@
-<!-- Kaplumbağamızı eklemeyi unutmayalım 🐢 -->
 <img align="right" src="https://komarev.com/ghpvc/?username=AarontheGalaxy&label=Profile%20views&color=0e75b6&style=flat" alt="AarontheGalaxy" /> 
 
 <h1 align="center">
@@ -8,7 +7,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+learning+new+things+%F0%9F%8C%B1;Turtle+Lover+%F0%9F%90%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Building+Automation+Pipelines+%F0%9F%A4%96;Python+%7C+SQL+%7C+AI+Tools;Always+learning+new+things+%F0%9F%8C%B1;Turtle+Lover+%F0%9F%90%A2" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Software Engineering student at the University of Europe for Applied Sciences, Potsdam.<br/>
+  I build end-to-end data pipelines, automation workflows with n8n, and explore AI tooling.<br/>
+  Focused on writing modular, production-quality code and learning something new every day.
 </p>
 
 <p align="center">
@@ -25,9 +30,9 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AarontheGalaxy&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dark_lover)
 
-- 🔭 I’m currently working on **various web projects, automations, and game tools.**
-- 🌱 I’m striving to learn new things every day. 
-- 💬 Ask me about **software and technology** [here](https://github.com/AarontheGalaxy/AarontheGalaxy/issues?reload=1) ! I am happy to help.
+- 🔭 I’m currently working on **data pipelines, automation workflows, and AI tooling.**
+- 🌱 I’m striving to learn new things every day.
+- 💬 Ask me about **Python, automation, or AI tools** [here](https://github.com/AarontheGalaxy/AarontheGalaxy/issues?reload=1) — happy to help!
 - ⚡ Fun fact: **I really love turtles! 🐢**
 
 <br>
@@ -37,6 +42,7 @@
 # Connect <img src='./assets/cat.gif' width="30"> 
 
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/AarontheGalaxy)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/eren-taşkın)
 
 <br>
 
@@ -46,7 +52,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,rust,cpp,react,nodejs,html,css,git,github,vscode,docker,linux&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,ts,swift,sqlite,aws,docker,linux,git,github,vscode&theme=dark&perline=5" />
   </a>
 </p>
 
@@ -65,16 +71,16 @@
         <img src="https://img.shields.io/github/forks/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat&color=blue" />
         <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat&color=green" />
       </a>
-      <p><sub>End-to-end data pipeline for KPI drop root cause analysis</sub></p>
+      <p><sub>End-to-end 4-phase data pipeline processing 105K+ retail records with anomaly detection</sub></p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/AarontheGalaxy/AetherCast">
-        <img src="https://img.shields.io/badge/🦀_AetherCast-141321?style=for-the-badge" /><br/>
-        <img src="https://img.shields.io/github/stars/AarontheGalaxy/AetherCast?style=flat&color=yellow" />
-        <img src="https://img.shields.io/github/forks/AarontheGalaxy/AetherCast?style=flat&color=blue" />
-        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/AetherCast?style=flat&color=green" />
+      <a href="https://github.com/AarontheGalaxy/Python-Text-Analyzer">
+        <img src="https://img.shields.io/badge/📝_Python_Text_Analyzer-141321?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/github/stars/AarontheGalaxy/Python-Text-Analyzer?style=flat&color=yellow" />
+        <img src="https://img.shields.io/github/forks/AarontheGalaxy/Python-Text-Analyzer?style=flat&color=blue" />
+        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/Python-Text-Analyzer?style=flat&color=green" />
       </a>
-      <p><sub>A Rust-powered broadcasting tool</sub></p>
+      <p><sub>Desktop NLP tool with dual-architecture (Functional & OOP), multi-format file support</sub></p>
     </td>
   </tr>
 </table>
@@ -146,10 +152,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
-<!-- 
-    // Türkçe kod yorumu: Bu alan AarontheGalaxy'nin imza köşesidir. 
-    // Geliştirmeye ve yeni şeyler denemeye devam! 🐢
--->
 <h4 align="center">
   
 ```diff
