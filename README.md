@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Open%20To%20Work-00cc00?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+  </a>
+</p>
+
+<p align="center">
   <img height="150" width="150" src="./assets/left_wing.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AarontheGalaxy&theme=youtube_dark&hide_border=true&background=FF5B5B00"/>
   <img height="150" width="150" src="./assets/right_wing.webp"/>
@@ -118,7 +124,7 @@
  > 
 > 🏆 82 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 🟢 Available for Hire
  > 
 > 📜 3 Public Repositories 
  > 
