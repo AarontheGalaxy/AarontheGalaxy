@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gece yarısı çalıştır (Turkish comment 🐢)
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -13,22 +13,23 @@ jobs:
     permissions:
       contents: write
     steps:
+      # 1. Genel İstatistikler (github-metrics.svg)
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: AarontheGalaxy
-          template: classic
+          filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
           plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+
+      # 2. Skyline Görseli (github-metrics-plugin-skyline.svg)
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-plugin-skyline.svg
+          base: ""
           plugin_skyline: yes
-          plugin_skyline_year: current
+          plugin_skyline_year: 2025 # 2026 henüz desteklenmiyor olabilir, 2025 en garantisi
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
