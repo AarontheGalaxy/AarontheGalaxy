@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:taskineren24@gmail.com">
     <img src="https://img.shields.io/badge/Open%20To%20Work-00cc00?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
   </a>
 </p>
