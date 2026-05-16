@@ -8,6 +8,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+learning+new+things+%F0%9F%8C%B1;Turtle+Lover+%F0%9F%90%A2" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img height="150" width="150" src="./assets/left_wing.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AarontheGalaxy&theme=youtube_dark&hide_border=true&background=FF5B5B00"/>
   <img height="150" width="150" src="./assets/right_wing.webp"/>
@@ -34,20 +38,42 @@
 
 # Skills <img src='./assets/code.gif' width="20"> 
 
-| Category        | Technologies        |
-|-----------------|---------------|
-| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
-| Frameworks| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> |
-| Tools & Env| <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,rust,cpp,react,nodejs,html,css,git,github,vscode,docker,linux&theme=dark&perline=7" />
+  </a>
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
 
+# Featured Projects 🏆
+
+<p align="center">
+  <a href="https://github.com/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AarontheGalaxy&repo=Retail-KPI-Root-Cause-Analysis&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/AarontheGalaxy/AetherCast">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AarontheGalaxy&repo=AetherCast&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # My GitHub Stats <img src="./assets/campfire.png" alt="Campfire" width="30" />
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AarontheGalaxy&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarontheGalaxy&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/AarontheGalaxy/AarontheGalaxy/main/github-metrics.svg" alt="Metrics" width="75%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarontheGalaxy&bg_color=141321&color=00f7f7&line=00f7f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 </p>
 
 
