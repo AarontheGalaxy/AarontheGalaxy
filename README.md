@@ -186,7 +186,9 @@ Rust                     1 repo              ██░░░░░░░░░�
 ## 🌍 Visitors Map
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AarontheGalaxy/count.svg" alt="Visitor Count" />
+  <a href="https://info.flagcounter.com/AarontheGalaxy">
+    <img src="https://s01.flagcounter.com/count/AarontheGalaxy/bg_0D1117/txt_FFFFFF/border_0D1117/columns_3/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/" alt="Flag Counter" border="0">
+  </a>
 </p>
 
 <p align="center">
@@ -220,25 +222,7 @@ Rust                     1 repo              ██░░░░░░░░░�
   <sub>Click the button above to view my 3D city skyline built from my GitHub contributions!</sub>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🎮 Play Tic-Tac-Toe Against Me!
-
-Want to play a game? Open an issue with your move!
-
-| | 1 | 2 | 3 |
-|---|---|---|---|
-| **A** | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Ca1&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Ca2&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Ca3&body=Just+click+submit!) |
-| **B** | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cb1&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cb2&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cb3&body=Just+click+submit!) |
-| **C** | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cc1&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cc2&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cc3&body=Just+click+submit!) |
-
-<p align="center">
-  <sub>Click any empty square to make your move — it opens a GitHub issue! 🐢</sub>
-</p>
-
-<br>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- 
     // Türkçe kod yorumu: Bu alan AarontheGalaxy'nin imza köşesidir. 
