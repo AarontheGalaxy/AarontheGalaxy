@@ -179,36 +179,7 @@ Rust                     1 repo              ██░░░░░░░░░�
  Last Updated on 16/05/2026 14:04:15 UTC
 <!--END_SECTION:waka-->
 
-<br>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-## 😂 Random Dev Joke
-
-<p align="center">
-  <img src="https://joke-api-three.vercel.app/api?theme=radical" alt="Random Dev Joke" width="500"/>
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 🏙️ GitHub Skyline
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AarontheGalaxy/AarontheGalaxy/main/github-metrics-plugin-skyline.svg" alt="GitHub Skyline" width="100%"/>
-</p>
-<p align="center">
-  <sub>My 3D city skyline built from my GitHub contributions! 🐢</sub>
-</p>
 
 
 
