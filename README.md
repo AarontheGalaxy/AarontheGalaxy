@@ -19,7 +19,7 @@
 
 <p align="center">
   <img height="150" width="150" src="./assets/left_wing.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AarontheGalaxy&theme=youtube_dark&hide_border=true&background=FF5B5B00"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AarontheGalaxy&theme=youtube_dark&hide_border=true&background=FF5B5B00&v=2"/>
   <img height="150" width="150" src="./assets/right_wing.webp"/>
 </p>
 
@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarontheGalaxy&bg_color=141321&color=00f7f7&line=00f7f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarontheGalaxy&bg_color=141321&color=00f7f7&line=00f7f7&point=ffffff&area=true&hide_border=true&v=2" alt="Activity Graph" width="95%"/>
 </p>
 
 
