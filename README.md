@@ -87,9 +87,7 @@
   <img src="https://raw.githubusercontent.com/AarontheGalaxy/AarontheGalaxy/main/github-metrics.svg" alt="Metrics" width="75%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarontheGalaxy&bg_color=141321&color=00f7f7&line=00f7f7&point=ffffff&area=true&hide_border=true&v=2" alt="Activity Graph" width="95%"/>
-</p>
+
 
 
 
