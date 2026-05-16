@@ -196,7 +196,7 @@ Rust                     1 repo              ██░░░░░░░░░�
 ## 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Random Dev Joke" width="500"/>
+  <img src="https://joke-api-three.vercel.app/api?theme=radical" alt="Random Dev Joke" width="500"/>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
