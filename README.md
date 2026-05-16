@@ -183,17 +183,7 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🌍 Visitors Analytics
 
-<p align="center">
-  <a href="https://info.flagcounter.com/AarontheGalaxy">
-    <img src="https://s01.flagcounter.com/count/AarontheGalaxy/bg_0D1117/txt_FFFFFF/border_0D1117/columns_4/maxflags_16/viewers_3/labels_1/pageviews_1/flags_0/" alt="Flag Counter" border="0">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AarontheGalaxy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -214,12 +204,10 @@ Rust                     1 repo              ██░░░░░░░░░�
 ## 🏙️ GitHub Skyline
 
 <p align="center">
-  <a href="https://skyline.github.com/AarontheGalaxy/2026">
-    <img src="https://img.shields.io/badge/🏙️_View_My_2026_GitHub_Skyline-141321?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2026"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/AarontheGalaxy/AarontheGalaxy/main/github-metrics-plugin-skyline.svg" alt="GitHub Skyline" width="100%"/>
 </p>
 <p align="center">
-  <sub>Click the button above to view my 3D city skyline built from my GitHub contributions!</sub>
+  <sub>My 3D city skyline built from my GitHub contributions! 🐢</sub>
 </p>
 
 
