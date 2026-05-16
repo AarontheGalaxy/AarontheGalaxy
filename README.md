@@ -183,11 +183,11 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🌍 Visitors Map
+## 🌍 Visitors Analytics
 
 <p align="center">
-  <a href="https://clustrmaps.com/site/1c23v"  title="Visit tracker">
-    <img src="https://www.clustrmaps.com/map_v2.png?d=kMv3T_y2_2pS_L-9j4u9_2-9j4u9_2&cl=ffffff&w=a" />
+  <a href="https://info.flagcounter.com/AarontheGalaxy">
+    <img src="https://s01.flagcounter.com/count/AarontheGalaxy/bg_0D1117/txt_FFFFFF/border_0D1117/columns_4/maxflags_16/viewers_3/labels_1/pageviews_1/flags_0/" alt="Flag Counter" border="0">
   </a>
 </p>
 
