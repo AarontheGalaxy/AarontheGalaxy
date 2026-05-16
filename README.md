@@ -112,8 +112,6 @@
 # Wakatime Stats <img src="./assets/campfire.png" alt="Campfire" width="30" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-429.85%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -128,45 +126,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-🌆 Daytime                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-🌃 Evening                91 commits          ███████████░░░░░░░░░░░░░░   42.33 % 
-🌙 Night                  82 commits          ██████████░░░░░░░░░░░░░░░   38.14 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Tuesday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Wednesday                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Thursday                 66 commits          ████████░░░░░░░░░░░░░░░░░   30.70 % 
-Friday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Saturday                 60 commits          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Sunday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -180,7 +139,7 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2026 19:41:08 UTC
+ Last Updated on 16/05/2026 23:57:07 UTC
 <!--END_SECTION:waka-->
 
 
