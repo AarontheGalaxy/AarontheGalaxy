@@ -50,23 +50,32 @@
 
 # Featured Projects 🏆
 
-<p align="center">
-  <a href="https://github.com/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AarontheGalaxy&repo=Retail-KPI-Root-Cause-Analysis&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/AarontheGalaxy/AetherCast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AarontheGalaxy&repo=AetherCast&theme=radical&hide_border=true" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis">
+        <img src="https://img.shields.io/badge/📊_Retail_KPI_Root_Cause_Analysis-141321?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/github/stars/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat&color=yellow" />
+        <img src="https://img.shields.io/github/forks/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat&color=blue" />
+        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat&color=green" />
+      </a>
+      <p><sub>End-to-end data pipeline for KPI drop root cause analysis</sub></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/AarontheGalaxy/AetherCast">
+        <img src="https://img.shields.io/badge/🦀_AetherCast-141321?style=for-the-badge" /><br/>
+        <img src="https://img.shields.io/github/stars/AarontheGalaxy/AetherCast?style=flat&color=yellow" />
+        <img src="https://img.shields.io/github/forks/AarontheGalaxy/AetherCast?style=flat&color=blue" />
+        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/AetherCast?style=flat&color=green" />
+      </a>
+      <p><sub>A Rust-powered broadcasting tool</sub></p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # My GitHub Stats <img src="./assets/campfire.png" alt="Campfire" width="30" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarontheGalaxy&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarontheGalaxy&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AarontheGalaxy/AarontheGalaxy/main/github-metrics.svg" alt="Metrics" width="75%"/>
@@ -170,7 +179,66 @@ Rust                     1 repo              ██░░░░░░░░░�
  Last Updated on 16/05/2026 14:04:15 UTC
 <!--END_SECTION:waka-->
 
-<br><br>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🌍 Visitors Map
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AarontheGalaxy/count.svg" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AarontheGalaxy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+## 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Random Dev Joke" width="500"/>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🏙️ GitHub Skyline
+
+<p align="center">
+  <a href="https://skyline.github.com/AarontheGalaxy/2026">
+    <img src="https://img.shields.io/badge/🏙️_View_My_2026_GitHub_Skyline-141321?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2026"/>
+  </a>
+</p>
+<p align="center">
+  <sub>Click the button above to view my 3D city skyline built from my GitHub contributions!</sub>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🎮 Play Tic-Tac-Toe Against Me!
+
+Want to play a game? Open an issue with your move!
+
+| | 1 | 2 | 3 |
+|---|---|---|---|
+| **A** | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Ca1&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Ca2&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Ca3&body=Just+click+submit!) |
+| **B** | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cb1&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cb2&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cb3&body=Just+click+submit!) |
+| **C** | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cc1&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cc2&body=Just+click+submit!) | [⬜](https://github.com/AarontheGalaxy/AarontheGalaxy/issues/new?title=tictactoe%7Cmove%7Cc3&body=Just+click+submit!) |
+
+<p align="center">
+  <sub>Click any empty square to make your move — it opens a GitHub issue! 🐢</sub>
+</p>
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- 
     // Türkçe kod yorumu: Bu alan AarontheGalaxy'nin imza köşesidir. 
