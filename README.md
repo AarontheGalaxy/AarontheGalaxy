@@ -43,7 +43,7 @@
 # Connect <img src='./assets/cat.gif' width="30"> 
 
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/AarontheGalaxy)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/eren-taşkın)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eren-taşkın-7b6229350/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:taskineren24@gmail.com)
 
 <br>
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,swift,sqlite,aws,docker,linux,git,github,vscode,xcode&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,ts,swift,sqlite,aws,docker,linux,git,github,vscode,xcode,postgresql,bash&theme=dark&perline=6" />
   </a>
 </p>
 
