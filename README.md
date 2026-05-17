@@ -12,8 +12,9 @@
 
 <p align="center">
   Software Engineering student at the University of Europe for Applied Sciences, Potsdam.<br/>
-  I build end-to-end data pipelines, automation workflows with n8n, and explore AI tooling.<br/>
-  Focused on writing modular, production-quality code and learning something new every day.
+  I build end-to-end data pipelines with Python & SQL, automate real-world workflows with n8n,<br/>
+  and work with LLMs and AI tooling to explore what's possible.<br/>
+  Focused on writing clean, production-quality code — and always building something new.
 </p>
 
 <p align="center">
@@ -32,7 +33,7 @@
 
 - 🔭 I’m currently working on **data pipelines, automation workflows, and AI tooling.**
 - 🌱 I’m striving to learn new things every day.
-- 💬 Ask me about **Python, automation, or AI tools** [here](https://github.com/AarontheGalaxy/AarontheGalaxy/issues?reload=1) — happy to help!
+- 💬 Ask me about **Python, automation, or AI tools** — feel free to reach out via [email](mailto:taskineren24@gmail.com)!
 - ⚡ Fun fact: **I really love turtles! 🐢**
 
 <br>
@@ -86,6 +87,12 @@
   <img src="https://img.shields.io/badge/Software_Development-2d6a4f?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Enterprise_Software-2d6a4f?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Software_Design-2d6a4f?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eren-taşkın/details/certifications/">
+    <img src="https://img.shields.io/badge/View%20All%20Certifications%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
