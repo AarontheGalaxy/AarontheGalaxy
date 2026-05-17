@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eren-taşkın/details/certifications/">
+  <a href="https://www.linkedin.com/in/eren-taşkın-7b6229350/details/certifications/">
     <img src="https://img.shields.io/badge/View%20All%20Certifications%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
