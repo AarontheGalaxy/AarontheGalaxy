@@ -178,6 +178,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AarontheGalaxy/AarontheGalaxy/main/github-metrics.svg" alt="Metrics" width="75%"/>
+  <img src="https://raw.githubusercontent.com/AarontheGalaxy/AarontheGalaxy/main/github-metrics-detailed.svg" alt="Detailed Metrics" width="75%"/>
 </p>
 
 
