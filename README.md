@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="./assets/Earth.gif" width="24px"/>
-  𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐀𝐚𝐫𝐨𝐧𝐭𝐡𝐞𝐆𝐚𝐥𝐚𝐱𝐲! 🐢
+  𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐄𝐫𝐞𝐧! 🐢
   <img src="./assets/Hi.gif" width="40px" />
 </h1>
 
