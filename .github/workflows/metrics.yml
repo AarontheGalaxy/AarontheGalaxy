@@ -20,12 +20,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
 
-          # Languages
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_colors: rainbow
-          plugin_languages_details: bytes-size, percentage
-
           # Isometric calendar (3D cube view)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
