@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,swift,sqlite,aws,docker,linux,git,github,vscode,postgres,bash,cloudflare,html,js,rust,apple&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,ts,swift,sqlite,aws,docker,linux,git,github,vscode,postgres,bash,cloudflare,html,js,rust,apple,githubactions,postman,pytorch,tensorflow,figma,notion&theme=dark&perline=6" />
   </a>
 </p>
 
