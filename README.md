@@ -51,10 +51,34 @@
 
 # Skills <img src='./assets/code.gif' width="20"> 
 
+**Languages & Tools**
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,swift,sqlite,aws,docker,linux,git,github,vscode&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,ts,swift,sqlite,aws,docker,linux,git,github,vscode,xcode&theme=dark&perline=6" />
   </a>
+</p>
+
+**AI & LLM Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+**Knowledge Areas**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMOps-141321?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-141321?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-141321?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-141321?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network_Security-141321?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-141321?style=for-the-badge" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
