@@ -190,7 +190,7 @@
 ## 🧊 3D GitHub Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribute" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribute" />
 </div>
 
 ## 🐍 Contribution Snake (Snake Animation)
