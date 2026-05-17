@@ -59,26 +59,33 @@
   </a>
 </p>
 
-**AI & LLM Tools**
+**AI & Machine Learning**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Large_Language_Models-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-**Knowledge Areas**
+**Systems & Security**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMOps-141321?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-141321?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-141321?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-141321?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Network_Security-141321?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ETL_Pipelines-141321?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network_Security-1e3a5f?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Information_Security-1e3a5f?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT_Systems_Development-1e3a5f?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems_Thinking-1e3a5f?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating_Systems-1e3a5f?style=for-the-badge&logoColor=white" />
+</p>
+
+**Software Development**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Development-2d6a4f?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise_Software-2d6a4f?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Design-2d6a4f?style=for-the-badge&logoColor=white" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
