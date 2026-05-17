@@ -43,7 +43,7 @@
 
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/AarontheGalaxy)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/eren-taşkın)
-[![Gmail](https://img.shields.io/badge/Gmail-taskineren24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taskineren24@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:taskineren24@gmail.com)
 
 <br>
 
