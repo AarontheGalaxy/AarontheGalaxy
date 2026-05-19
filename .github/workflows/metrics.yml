@@ -44,11 +44,6 @@ jobs:
           plugin_topics: yes
           plugin_topics_sort: random
 
-          # Reactions
-          plugin_reactions: yes
-          plugin_reactions_limit: 200
-          plugin_reactions_days: 14
-          plugin_reactions_details: percentage
 
   github-metrics-detailed:
     runs-on: ubuntu-latest
