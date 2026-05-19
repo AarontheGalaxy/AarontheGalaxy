@@ -8,8 +8,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarontheGalaxy&theme=github-dark&hide_border=true&background=00000000" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarontheGalaxy&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
