@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=AarontheGalaxy&label=Profile%20views&color=0e75b6&style=flat" alt="AarontheGalaxy" />
 
-<h1 align="center">Hello, I'm Eren Taskın</h1>
+<h1 align="center">Hello, I'm Eren!</h1>
 
 <p align="center"><i>Software Engineering Student &nbsp;·&nbsp; Data Pipelines &nbsp;·&nbsp; AI Tooling &nbsp;·&nbsp; Open to Work</i></p>
 
