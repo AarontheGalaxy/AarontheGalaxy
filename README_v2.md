@@ -174,3 +174,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AarontheGalaxy/AarontheGalaxy/main/github-metrics.svg" alt="Metrics" width="75%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarontheGalaxy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" width="50%"/>
+</p>
