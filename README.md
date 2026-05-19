@@ -5,7 +5,7 @@
 <p align="center"><i>Software Engineering Student &nbsp;·&nbsp; Data Pipelines &nbsp;·&nbsp; AI Tooling &nbsp;·&nbsp; Open to Work</i></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarontheGalaxy&theme=github-dark&hide_border=true&background=00000000" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=AarontheGalaxy&theme=github-dark&hide_border=true&background=00000000" height="160"/>
 </p>
 
 <p align="center">
