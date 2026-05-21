@@ -150,15 +150,17 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis">
-        <img src="https://img.shields.io/badge/Retail_KPI_Root_Cause_Analysis-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <img src="https://img.shields.io/github/stars/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6&label=Stars" />
-        <img src="https://img.shields.io/github/forks/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6&label=Forks" />
-        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6" />
+    <td align="center" colspan="2">
+      <a href="https://github.com/AarontheGalaxy/MacBroom">
+        <img src="https://img.shields.io/badge/MacBroom-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <img src="https://img.shields.io/github/stars/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6&label=Stars" />
+        <img src="https://img.shields.io/github/forks/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6&label=Forks" />
+        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6" />
       </a>
-      <p><sub>End-to-end 4-phase data pipeline processing 105K+ retail records with anomaly detection</sub></p>
+      <p><sub>macOS system cleaner and maintenance tool built with Swift</sub></p>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/AarontheGalaxy/AI-Tech-Radar">
         <img src="https://img.shields.io/badge/AI_Tech_Radar-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
@@ -167,6 +169,15 @@
         <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/AI-Tech-Radar?style=flat-square&color=0e75b6" />
       </a>
       <p><sub>AI-powered daily tech & AI news aggregator using local LLM (Ollama)</sub></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis">
+        <img src="https://img.shields.io/badge/Retail_KPI_Root_Cause_Analysis-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <img src="https://img.shields.io/github/stars/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6&label=Stars" />
+        <img src="https://img.shields.io/github/forks/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6&label=Forks" />
+        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6" />
+      </a>
+      <p><sub>End-to-end 4-phase data pipeline processing 105K+ retail records with anomaly detection</sub></p>
     </td>
   </tr>
 </table>
