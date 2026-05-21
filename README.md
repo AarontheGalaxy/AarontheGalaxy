@@ -96,6 +96,7 @@
       <td>
         <img src="https://img.shields.io/badge/Operating_Systems-1e3a5f?style=for-the-badge&logo=linux&logoColor=white"/>
         <img src="https://img.shields.io/badge/IT_Systems_Development-1e3a5f?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+        <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -116,6 +117,7 @@
         <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/bats--core-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
       </td>
     </tr>
   </tbody>
