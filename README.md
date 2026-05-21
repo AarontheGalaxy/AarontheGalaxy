@@ -159,7 +159,7 @@
         <img src="https://img.shields.io/github/forks/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6&label=Forks" />
         <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6" />
       </a>
-      <p><sub>macOS system cleaner and maintenance tool built with Swift</sub></p>
+      <p><sub>macOS system cleaner and maintenance tool written entirely in Bash — zero dependencies</sub></p>
     </td>
   </tr>
   <tr>
