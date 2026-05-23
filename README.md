@@ -34,6 +34,44 @@
 
 ---
 
+## Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/AarontheGalaxy/MacBroom">
+        <img src="https://img.shields.io/badge/MacBroom-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <img src="https://img.shields.io/github/stars/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6&label=Stars" />
+        <img src="https://img.shields.io/github/forks/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6&label=Forks" />
+        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6" />
+      </a>
+      <p><sub>A lightweight macOS system cleaner and maintenance tool written entirely in Bash — no dependencies, no installs. Clears system caches, removes junk files, frees up disk space, and runs health checks, all from a single interactive terminal script. Built for speed, transparency, and full user control.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/AarontheGalaxy/AI-Tech-Radar">
+        <img src="https://img.shields.io/badge/AI_Tech_Radar-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <img src="https://img.shields.io/github/stars/AarontheGalaxy/AI-Tech-Radar?style=flat-square&color=0e75b6&label=Stars" />
+        <img src="https://img.shields.io/github/forks/AarontheGalaxy/AI-Tech-Radar?style=flat-square&color=0e75b6&label=Forks" />
+        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/AI-Tech-Radar?style=flat-square&color=0e75b6" />
+      </a>
+      <p><sub>An automated daily digest that scrapes, filters, and summarizes the latest AI and tech news using a local LLM via Ollama. Cuts through the noise to surface what actually matters — delivered as a clean, readable report without sending your data to any external API.</sub></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis">
+        <img src="https://img.shields.io/badge/Retail_KPI_Root_Cause_Analysis-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <img src="https://img.shields.io/github/stars/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6&label=Stars" />
+        <img src="https://img.shields.io/github/forks/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6&label=Forks" />
+        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6" />
+      </a>
+      <p><sub>A production-style, end-to-end 4-phase data pipeline that ingests, cleans, and analyzes 105K+ retail records. Performs statistical anomaly detection and KPI root cause analysis to identify underperforming segments — complete with automated reporting and reproducible data quality checks.</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Connect
 
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/AarontheGalaxy)
@@ -145,44 +183,6 @@
     <img src="https://img.shields.io/badge/View%20All%20Certifications%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-## Featured Projects
-
-<table align="center">
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/AarontheGalaxy/MacBroom">
-        <img src="https://img.shields.io/badge/MacBroom-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <img src="https://img.shields.io/github/stars/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6&label=Stars" />
-        <img src="https://img.shields.io/github/forks/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6&label=Forks" />
-        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6" />
-      </a>
-      <p><sub>macOS system cleaner and maintenance tool written entirely in Bash — zero dependencies</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/AarontheGalaxy/AI-Tech-Radar">
-        <img src="https://img.shields.io/badge/AI_Tech_Radar-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <img src="https://img.shields.io/github/stars/AarontheGalaxy/AI-Tech-Radar?style=flat-square&color=0e75b6&label=Stars" />
-        <img src="https://img.shields.io/github/forks/AarontheGalaxy/AI-Tech-Radar?style=flat-square&color=0e75b6&label=Forks" />
-        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/AI-Tech-Radar?style=flat-square&color=0e75b6" />
-      </a>
-      <p><sub>AI-powered daily tech & AI news aggregator using local LLM (Ollama)</sub></p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis">
-        <img src="https://img.shields.io/badge/Retail_KPI_Root_Cause_Analysis-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <img src="https://img.shields.io/github/stars/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6&label=Stars" />
-        <img src="https://img.shields.io/github/forks/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6&label=Forks" />
-        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/Retail-KPI-Root-Cause-Analysis?style=flat-square&color=0e75b6" />
-      </a>
-      <p><sub>End-to-end 4-phase data pipeline processing 105K+ retail records with anomaly detection</sub></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
