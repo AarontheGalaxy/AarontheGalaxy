@@ -21,10 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AarontheGalaxy&column=8&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=onestar" />
-</p>
-
 - 🔭 I'm currently working on **data pipelines, automation workflows, and AI tooling.**
 - 🌱 I'm striving to learn new things every day.
 - 💬 Ask me about **Python, automation, or AI tools** — feel free to reach out via [email](mailto:taskineren24@gmail.com)!
@@ -204,4 +200,3 @@
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/AarontheGalaxy/AarontheGalaxy/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
