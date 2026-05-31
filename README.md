@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm Eren!</h1>
 
-<p align="center"><i>Software Engineering Student &nbsp;·&nbsp; Data Pipelines &nbsp;·&nbsp; AI Tooling &nbsp;·&nbsp; Open to Work</i></p>
+<p align="center"><i>Software Engineering Student &nbsp;·&nbsp; Data Pipelines &nbsp;·&nbsp; LLMs & Automation &nbsp;·&nbsp; Open to Work</i></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AarontheGalaxy&theme=github-dark&hide_border=true&background=00000000" height="160"/>
@@ -11,7 +11,7 @@
 <p align="center">
   Software Engineering student at the University of Europe for Applied Sciences, Potsdam.<br/>
   I build end-to-end data pipelines with Python & SQL, automate real-world workflows with n8n,<br/>
-  and work with LLMs and AI tooling to explore what's possible.<br/>
+  and build LLM-powered applications and automation workflows to explore what's possible.<br/>
   Focused on writing clean, production-quality code — and always building something new.
 </p>
 
@@ -21,10 +21,10 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on **data pipelines, automation workflows, and AI tooling.**
-- 🌱 I'm striving to learn new things every day.
-- 💬 Ask me about **Python, automation, or AI tools** — feel free to reach out via [email](mailto:taskineren24@gmail.com)!
-- ⚡ Fun fact: **I really love turtles! 🐢**
+- I'm currently working on **data pipelines, LLM-powered apps, and automation workflows.**
+- I'm striving to learn new things every day.
+- Ask me about **Python, automation, or AI tools** — feel free to reach out via [email](mailto:taskineren24@gmail.com)!
+- Fun fact: **I really love turtles!**
 
 <br>
 
@@ -34,14 +34,23 @@
 
 <table align="center">
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
       <a href="https://github.com/AarontheGalaxy/MacBroom">
         <img src="https://img.shields.io/badge/MacBroom-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <img src="https://img.shields.io/github/stars/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6&label=Stars" />
-        <img src="https://img.shields.io/github/forks/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6&label=Forks" />
+        <img src="https://img.shields.io/github/stars/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6" />
+        <img src="https://img.shields.io/github/forks/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6" />
         <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/MacBroom?style=flat-square&color=0e75b6" />
       </a>
       <p><sub>A lightweight macOS system cleaner and maintenance tool written entirely in Bash — no dependencies, no installs. Clears system caches, removes junk files, frees up disk space, and runs health checks, all from a single interactive terminal script. Built for speed, transparency, and full user control.</sub></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/AarontheGalaxy/Briefing">
+        <img src="https://img.shields.io/badge/Briefing-0d1117?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <img src="https://img.shields.io/github/stars/AarontheGalaxy/Briefing?style=flat-square&color=0e75b6&label=Stars" />
+        <img src="https://img.shields.io/github/forks/AarontheGalaxy/Briefing?style=flat-square&color=0e75b6&label=Forks" />
+        <img src="https://img.shields.io/github/languages/top/AarontheGalaxy/Briefing?style=flat-square&color=0e75b6" />
+      </a>
+      <p><sub>A full-stack meeting transcript analyzer built with FastAPI and React. Upload PDFs, DOCX, or plain text and get back an executive summary, action items, key decisions, and participant insights. Supports OpenAI, Anthropic, and local Ollama models — with persistent history via SQLite.</sub></p>
     </td>
   </tr>
   <tr>
